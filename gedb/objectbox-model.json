@@ -1,0 +1,88 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:8326878006900731439",
+      "lastPropertyId": "14:7681565301469108455",
+      "name": "GeDatas",
+      "properties": [
+        {
+          "id": "2:1475926341396273209",
+          "name": "ID",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "3:4206198669165658514",
+          "name": "Name",
+          "type": 9
+        },
+        {
+          "id": "4:8359323470051058345",
+          "name": "Members",
+          "type": 1
+        },
+        {
+          "id": "5:8267798404195052032",
+          "name": "Sp",
+          "type": 6
+        },
+        {
+          "id": "6:4098747715412515531",
+          "name": "BuyAverage",
+          "type": 6
+        },
+        {
+          "id": "7:5092836317016279639",
+          "name": "BuyQuantity",
+          "type": 6
+        },
+        {
+          "id": "8:2110217599916262528",
+          "name": "SellAverage",
+          "type": 6
+        },
+        {
+          "id": "9:9166594421883451599",
+          "name": "SellQuantity",
+          "type": 6
+        },
+        {
+          "id": "10:1745848730326210920",
+          "name": "OverallAverage",
+          "type": 6
+        },
+        {
+          "id": "11:9211701996466415110",
+          "name": "OverallQuantity",
+          "type": 6
+        },
+        {
+          "id": "13:6535422153886599369",
+          "name": "Date",
+          "type": 6
+        },
+        {
+          "id": "14:7681565301469108455",
+          "name": "ItemID",
+          "type": 6
+        }
+      ]
+    }
+  ],
+  "lastEntityId": "1:8326878006900731439",
+  "lastIndexId": "",
+  "lastRelationId": "",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    2648584127909697929,
+    9165570449551718718
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
